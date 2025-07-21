@@ -16,28 +16,28 @@ This repository is a growing collection of resources, code snippets, and experim
 ## 1. Python Basics
 
 This section covers:
-- Variables, Data Types, and Operators
-- Control Structures (if, for, while)
-- Functions and Modules
-- Object-Oriented Programming
-- File I/O
-- Working with Libraries
+- Variables, Data Types, and Operators  
+- Control Structures (if, for, while)  
+- Functions and Modules  
+- Object-Oriented Programming  
+- File I/O  
+- Working with Libraries  
 
-> 📁 Folder: `python/`
+📘 **Notebook:** [Python.ipynb](https://github.com/coderanandmaurya/PBEL/blob/main/python.ipynb)
 
 ---
 
 ## 2. NumPy for Numerical Computing
 
 This section covers:
-- Creating and manipulating arrays
-- Array broadcasting and vectorization
-- Indexing and slicing
-- Mathematical operations
-- Linear algebra operations
-- Random number generation
+- Creating and manipulating arrays  
+- Array broadcasting and vectorization  
+- Indexing and slicing  
+- Mathematical operations  
+- Linear algebra operations  
+- Random number generation  
 
-> 📁 Folder: `numpy/`
+📘 **Notebook:** [Numpy.ipynb](https://github.com/coderanandmaurya/PBEL/blob/main/Numpy.ipynb)
 
 ---
 
@@ -59,4 +59,3 @@ Stay tuned!
 1. Clone the repository:
    ```bash
    git clone https://github.com/coderanandmaurya/PBEL.git
-
