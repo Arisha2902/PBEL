@@ -20,9 +20,7 @@ This repository is a growing collection of resources, code snippets, and experim
 This section covers:
 - Variables, Data Types, and Operators  
 - Control Structures (if, for, while)  
-- Functions and Modules  
-- Object-Oriented Programming  
-- File I/O  
+- Functions and Modules,Class 
 - Working with Libraries  
 
 📘 **Notebook:** [Python.ipynb](https://github.com/coderanandmaurya/PBEL/blob/main/python.ipynb)
